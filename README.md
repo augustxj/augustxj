@@ -3,8 +3,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Texto na esquerda -->
   <div style="flex: 1; padding-right: 20px;">
-    <p>My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher
-      from Brazil who loves Machine Learning, AI, and tech!</p>
+    <p>My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher <p>
+      <p>from Brazil who loves Machine Learning, AI, and tech!</p>
   </div>
 
   <!-- Caixa de estatísticas na direita -->
