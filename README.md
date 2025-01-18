@@ -3,9 +3,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <!-- Texto na esquerda -->
   <div style="flex: 1; padding-right: 20px; max-width: 60%;">
-    <p>My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher from Brazil who loves Machine Learning, AI, and tech! <style="flex: 0; max-width: 35%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" />
-  </div>
+    <p>My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher from Brazil who loves Machine Learning, AI, and tech! <style="flex: 0; max-width: 35%;"> <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" />
+
 </div>
 
 ###
