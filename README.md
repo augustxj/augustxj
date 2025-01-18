@@ -1,18 +1,16 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Texto na esquerda -->
   <div style="flex: 1; padding-right: 20px;">
-    <p style="margin: 0;">My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher from Brazil who loves Machine Learning, AI, and tech!</p>
+    <p>My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher from Brazil who loves Machine Learning, AI, and tech!</p>
   </div>
+
   <!-- Caixa de estatísticas na direita -->
   <div style="flex: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" />
   </div>
 </div>
-
 
 ###
 
@@ -20,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Discover insights from MRI data analysis to help people and improve research.<br>🎲 Fun fact: In my 15's I was second best BF4 helicopter player from the world and Brazil #1.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Deep Learning<br>🎯 Goals: Discover insights from MRI data analysis to help people and improve research.<br>🎲 Fun fact: In my 15's I was the second-best BF4 helicopter player in the world and Brazil's #1.</p>
 
 ###
 
@@ -51,18 +49,16 @@
 ###
 
 <div align="left">
-  <a href="joao.gonzaga@sou.unifal-mg.edu.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:joao.gonzaga@sou.unifal-mg.edu.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/joao-augusto-ferreira-gonzaga/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://discordapp.com/users/429341529098944512" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="instagram.com/augustxj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/augustxj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
-###
