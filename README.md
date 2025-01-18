@@ -1,9 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: nowrap;">
   <!-- Texto na esquerda -->
   <div style="flex: 1; padding-right: 20px;">
-    <p style="margin: 0;">My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher from Brazil who loves Machine Learning, AI, and tech!</p>
+    <p style="margin: 0;">My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher</p>
+    <p style="margin: 0;">from Brazil who loves Machine Learning, AI, and tech!</p>
   </div>
 
   <!-- Caixa de estatísticas na direita -->
