@@ -1,10 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Welcome!</h1>
 
 <div style="display: flex; align-items: center; flex-wrap: nowrap;">
   <!-- Texto antes da caixa -->
-  <p align="left" style="margin: 0;">My name is João! I'm a Biomedical Sciences student and Neurophysiology researcher <img align="right" src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" /> from Brazil who loves Machine Learning, AI, and tech!</p>
-<div>
-🔬 🧪 ⚛︎ 🧬
+  <p align="left" style="margin: 0;">My name is João! I'm a Biomedical Sciences student and Neurophysiology researcher <img align="right" src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" /> from Brazil who loves Machine Learning, AI, and tech!</p> 
+🔬 🧪 ⚛︎ 🧬 
+  
+  <br>
+  <br>
 <h2 align="left">About me</h2>
 
 ###
