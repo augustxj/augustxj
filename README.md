@@ -2,13 +2,18 @@
 
 ###
 
-<p align="left">My name is João and I'm a Biomedical Sciences student  and Neurofisology researcher from Brazil who loves Machine Learning, AI and tech!</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Texto na esquerda -->
+  <div style="flex: 1; padding-right: 20px;">
+    <p style="margin: 0;">My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher from Brazil who loves Machine Learning, AI, and tech!</p>
+  </div>
 
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph"  />
+  <!-- Caixa de estatísticas na direita -->
+  <div style="flex: 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" />
+  </div>
 </div>
+
 
 ###
 
