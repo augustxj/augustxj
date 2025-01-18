@@ -1,15 +1,18 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: nowrap;">
-  <!-- Texto na esquerda -->
-  <div style="flex: 1; padding-right: 20px;">
-    <p style="margin: 0;">My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher</p>
-    <p style="margin: 0;">from Brazil who loves Machine Learning, AI, and tech!</p>
-  </div>
+  <!-- Texto e Caixa lado a lado -->
+  <div style="flex: 1; display: flex; flex-direction: row; align-items: flex-start;">
+    <!-- Texto -->
+    <div style="padding-right: 20px;">
+      <p style="margin: 0;">My name is João, and I'm a Biomedical Sciences student and Neurophysiology researcher</p>
+      <p style="margin: 0;">from Brazil who loves Machine Learning, AI, and tech!</p>
+    </div>
 
-  <!-- Caixa de estatísticas na direita -->
-  <div style="flex: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" />
+    <!-- Caixa de estatísticas -->
+    <div style="margin-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=augustxj&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=The%20Road%20So%20Far:" height="150" alt="stats graph" />
+    </div>
   </div>
 </div>
 
