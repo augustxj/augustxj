@@ -43,9 +43,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
   
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="adobeaftereffects logo" />
-  <img width="12" />
-  
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" />
 </div>
 
